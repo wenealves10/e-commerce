@@ -1,1 +1,4 @@
-alert('olá')
+function alert(){
+alert('olá');
+}
+alert()
